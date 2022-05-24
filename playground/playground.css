@@ -1,0 +1,32 @@
+body {
+  background: #cbd1e1;
+}
+
+.item-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+}
+
+.item {
+  color: #0f1117;
+  border: 2px solid #293462;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+#item-1 {
+  font-size: 15px;
+  width: 250px;
+}
+
+#item-2 {
+  font-size: 1.3rem;
+  width: 350px;
+  color: #ac474b;
+}
+
+#item-3 {
+  font-size: 150%;
+  width: 450px;
+}
