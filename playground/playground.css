@@ -20,13 +20,37 @@ body {
   width: 250px;
 }
 
+#item-1 h1 {
+  font-size: 2.8rem;
+  margin: 0;
+  font-variant: small-caps;
+}
+
+#item-1 h3 {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  color: #636363;
+}
+
 #item-2 {
   font-size: 1.3rem;
   width: 350px;
   color: #ac474b;
 }
 
+#item-2 h2 {
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  font-variant: small-caps;
+}
+
 #item-3 {
   font-size: 150%;
   width: 450px;
+}
+
+#item-3 h3 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  font-variant: small-caps;
 }
